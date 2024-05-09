@@ -1,9 +1,8 @@
 # **Revolutionary IOT**
 
-![RIOT Logo](https://github.com/vn-vision/RIOT/assets/140785626/9ec512bc-9e01-41fa-9c2d-31236694a1d9)
-
+![RevIOT Logo](![logo](https://github.com/RevIOTT/RevIOTT/assets/169278405/32f0d5c4-f5d4-4aea-bbf6-468ebfe8381c)
 ## Projects:
-- [Farmwise:](https://github.com/vn-vision/RIOT/tree/main/Farmwise) - Ongoing
+- [Farmwise:](https://github.com/RevIOTT/Farmwise) - Ongoing
 - [Avery 2.0]() - Pending...
 
 ## About
